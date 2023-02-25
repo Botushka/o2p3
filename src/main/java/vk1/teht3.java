@@ -1,4 +1,4 @@
-package com.example.demo;
+package vk1;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

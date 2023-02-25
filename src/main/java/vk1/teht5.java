@@ -1,4 +1,4 @@
-package com.example.demo;
+package vk1;
 
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
